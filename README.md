@@ -1,2 +1,2 @@
 # heyfalsk
-this is a simple flask project for singn in and log in
+this is a simple flask project for sign in and log in
